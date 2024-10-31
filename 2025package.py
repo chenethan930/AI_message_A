@@ -1,8 +1,7 @@
 import requests
 import json
-from opencc import OpenCC
 import streamlit as st
-cc = OpenCC('s2t')
+
 
 
 headers = {
